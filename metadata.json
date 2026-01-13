@@ -1,0 +1,5 @@
+{
+  "name": "FDA 510(k) Agentic Reviewer",
+  "description": "A specialized, multi-agent regulatory intelligence application with a visually rich UI for analyzing FDA 510(k) submissions.",
+  "requestFramePermissions": []
+}
